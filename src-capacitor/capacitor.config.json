@@ -1,0 +1,7 @@
+{
+  "appId": "de.node4biz.vienna",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
